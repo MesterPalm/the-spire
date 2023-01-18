@@ -9,3 +9,5 @@ WASD to move, RF to ascend and descend and ←↑→↓ and PgUp/PgDown too look
 
 Lines drawn in the 3D logic are in view when behind the player,
 should probably fix this but it looks quite cool at times...
+
+![tHe SpIrE](media/the-spire.gif)
